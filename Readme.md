@@ -95,7 +95,6 @@ The converter generates interactive HTML documents with various features:
   ![custom styled document](output/custom_styled_output.png)
 - Enhanced Output document
   ![Enhanced output document](output/enhanced_document_output.png)
-  ![Output Example](img/output.png)
 
 ## API Reference
 
